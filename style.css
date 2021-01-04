@@ -54,7 +54,9 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 15px;
-    height: 80%; background-color: white;
+    height: 80%; 
+    background-color: white;
+    overflow: scroll;
    
 }
 
